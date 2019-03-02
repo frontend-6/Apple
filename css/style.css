@@ -8,5 +8,21 @@
 
 .latesWorks__content {
     display: flex;
-    
+}
+.cookie{
+    background-color: #194277;
+    height: 72px;
+}
+.cookie__text{
+    color: white;
+    font-family: Lato;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 36px;
+}
+.cookie__btn{
+    width: 112px;
+    height: 30px;
+    background-color: white;
+    border-radius: 15px;
 }
