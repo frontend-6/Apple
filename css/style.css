@@ -1,6 +1,16 @@
 body{
     /* background-image: url(../img/Eskulap-Template-Symu_co.png) */
 }
+.latesWork {
+    width: 1025;
+}
+/*  */
+
+}
+.logotip {
+    display: flex;
+    justify-content: ;
+}
 .cookie{
     background-color: #194277;
     height: 72px;
