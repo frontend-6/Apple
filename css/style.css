@@ -2,7 +2,7 @@
     width: 1025;
 }
 
-.col-3 img {
+.col-4 img {
     margin-top: 27px;
     margin-bottom: 27px;
 }
@@ -46,6 +46,8 @@ color: white;
 }
 .portfolio__burger{
     color: white;
+    margin-top: 31px;
+    zoom: 1.5;
 }
 .portfolio__img{
     margin-top: 47px;
@@ -57,6 +59,7 @@ color: white;
     font-weight: 900;
     line-height: 60px;
     text-transform: uppercase;
+    text-align: center;
 }
 .portfolio__btn>button{
     color: #3695ff;
@@ -69,6 +72,7 @@ color: white;
     height: 55px;
     background-color: white;
     border-radius: 28px;
+    margin-top: 36px;
 }
 .portfolio__subtitle>p{
     color: white;
@@ -77,6 +81,10 @@ color: white;
     font-weight: 300;
     line-height: 35px;
     text-transform: uppercase;
+    text-align: center;
+}
+.portfolio__link{
+    margin-top: 30px;
 }
 
 .col__h2 {
@@ -107,4 +115,7 @@ color: white;
 .flex-container {
     display: flex;
 
+}
+.footer {
+    display: inline-block;
 }
