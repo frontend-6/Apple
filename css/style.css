@@ -10,7 +10,9 @@
 .logotip {
     display: flex;
 }
-
+.font_color {
+color: white;
+}
 .cookie {
     background-color: #194277;
     height: 72px;
