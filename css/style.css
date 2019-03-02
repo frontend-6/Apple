@@ -31,6 +31,52 @@ color: white;
     height: 30px;
     background-color: white;
     border-radius: 15px;
+    margin-top: 19px;
+    margin-left: 51px;
+    color: #194277;
+    font-family: Lato;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 16px;
+}
+.portfolio{
+    height: 800px;
+    background-color: #4099ff;
+    text-transform: uppercase;
+}
+.portfolio__burger{
+    color: white;
+}
+.portfolio__img{
+    margin-top: 47px;
+}
+.portfolio__title>p{
+    color: white;
+    font-family: Lato;
+    font-size: 50px;
+    font-weight: 900;
+    line-height: 60px;
+    text-transform: uppercase;
+}
+.portfolio__btn>button{
+    color: #3695ff;
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 30px;
+    text-transform: uppercase;
+    width: 204px;
+    height: 55px;
+    background-color: white;
+    border-radius: 28px;
+}
+.portfolio__subtitle>p{
+    color: white;
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 35px;
+    text-transform: uppercase;
 }
 
 .col__h2 {
