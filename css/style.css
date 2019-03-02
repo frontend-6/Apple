@@ -1,1 +1,12 @@
-/* styles goes here */
+.latesWorks__content--size {
+    width: 361px;
+    height: 271px;
+    background-color: #f4f4f4;
+    border: 1px solid #f4f4f4;
+    border-radius: 10px;
+}
+
+.latesWorks__content {
+    display: flex;
+    
+}
