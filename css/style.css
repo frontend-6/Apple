@@ -2,7 +2,7 @@
     width: 1025;
 }
 
-.col-3 img {
+.col-4 img {
     margin-top: 27px;
     margin-bottom: 27px;
 }
@@ -107,4 +107,7 @@ color: white;
 .flex-container {
     display: flex;
 
+}
+.footer {
+    display: inline-block;
 }
