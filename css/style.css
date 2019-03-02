@@ -1,13 +1,12 @@
-.latesWorks__content--size {
-    width: 361px;
-    height: 271px;
-    background-color: #f4f4f4;
-    border: 1px solid #f4f4f4;
-    border-radius: 10px;
+.latesWork {
+    width: 1025;
 }
+/*  */
 
-.latesWorks__content {
+}
+.logotip {
     display: flex;
+    justify-content: ;
 }
 .cookie{
     background-color: #194277;
