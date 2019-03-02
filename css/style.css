@@ -1,7 +1,11 @@
 .latesWork {
     width: 1025;
 }
-/*  */
+.col-3 img {
+    margin-top: 27px;
+    margin-bottom: 27px;
+} 
+
 
 }
 .logotip {
